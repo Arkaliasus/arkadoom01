@@ -1,5 +1,4 @@
 # arkadoom01
-A set of levels for doom2 [ONLY 2 DONE SO FAR]
+A set of levels for doom2 [ THREE ADDED ]
 
-So recently a good friend of mine suggested i should make a doom2 wad.
-there we go, you're up to date :D
+Third L
